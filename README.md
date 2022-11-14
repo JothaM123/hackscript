@@ -7,3 +7,6 @@ Hackscript is a small tool to find WIFI passwords
 
 ## UI
 ![image](https://user-images.githubusercontent.com/83907753/201646619-fa8ee789-f761-43ea-9a81-882d5dd4acb9.png)
+
+## Download
+https://github.com/JothaM123/hackscript/blob/main/Hackscript.ps1
